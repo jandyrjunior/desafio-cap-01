@@ -10,4 +10,5 @@ resolução de desafios propostos pela Capgemini como parte do processo seletivo
 4- salve o arquivo 'stdin'
 5- no terminal, verifique se o caminho está direcionando para a pasta da solução que será
    testada e caso não esteja, direcione o caminho para a pasta usando o comando 'cd nome-da-pasta'. Digite o comando 'node script.js' para rodar a solução.
+6- estas soluções foram desenvolvidas utitilizando Javascript.
 
